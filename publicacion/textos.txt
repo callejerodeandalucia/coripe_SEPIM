@@ -1,11 +1,35 @@
 Título (30)
 ===========
 
+GUÍA OFICIAL DE CORIPE
+
 Descripción breve (80)
 ======================
 
+Guía con información de interés de Coripe
+
 Descripción completa (4000)
 ===========================
+
+Con la aplicación “Guía Oficial de Coripe”, llevarás Coripe en Tu bolsillo!
+
+Es una aplicación desarrollada por el Ayuntamiento de Coripe y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración
+
+La idea inicial de esta aplicación es ofrecer una guía en el que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Coripe desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (Turista o visitante) que se acerque a esta localidad.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, consultar las paradas de Taxís más cercana, localizar y llamar a los teléfonos de urgencias y emergencias, consultorio de salud, hoteles, restaurantes, colegios, guarderías, supermercados, organismos públicos, bancos, localizar cajeros automáticos, asociaciones, farmacias, así como conocer sus fiestas y costumbres, ocio, cultura, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios wed o redes sociales. Para poder identificar mejor la ubicación la aplicación ofrece una imagen de la fachada donde esta ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa (horarios y otros datos de interés).
+
+La localidad de Coripe esta ubicada en la sierra sur de la provincia de Sevilla, (piedemonte subbetico) y forma parte de un paisaje natural de gran belleza, en la confluencia de los ríos Guadalporcún con el Guadalete. Se encuentra en el limite de las provincias de Sevilla y Cádiz, a 77 kilómetros de la capital. El término municipal tiene una extensión de 60 km cuadrados y una altitud de 325 metros sobre el nivel del mar. Se accede en coche desde Sevilla carretera A376 a Utrera, continuar dirección Ronda y en Montellano tomar la A8127 a Coripe,. En autobús la empresa encargada del servicio de La Casal.
+
+El Domingo de Resurrección y la quema del Judas, declarada fiesta de interés turístico desde 2001, después de la misa procesiona el Cristo Resucitado, acompañado de la banda de música y de escopeteros que van dando tiros de salva a su paso, se construye un huerto a semejanza del huerto de los Olivos y finaliza con la quema del Judas colgado en una higuera a tiros con las salvas de los escopeteros. (El Judas un muñeco de trapo y paja que representa a un personaje que durante el año destaque por alguna mala acción)
+
+el antiguo trazado ferroviario Jerez-Almargen en el tramo Puerto Serrano , Coripe a Olvera a sido recuperado y gestionado por La Fundación Vía Verde de la Sierra para su disfrute a pie, en bicicleta o a caballo, cuenta en el Término de Coripe con siete túneles, destaca el de la sierra del Castillo con casi un km de longitud, tres de los cuales cuentan con iluminación, también destacan tres viaductos sobre el rio Guadalporcún, se han restaurado dos estaciones la de Coripe para Casa Rural y Restaurante y la de Zaframagón como Centro de interpretación y observatorio de aves, cerca de su recorrido se encuentran el Chaparro de la Vega, declarado monumento nacional, su tronco alcanza 1,20 m de diámetro , la copa tiene un diámetro de 30 metros y 13 de altura, cuenta con una zona recreativa con  barbacoas y la ermita de la Virgen de Fátima,  donde se celebra la Romería el segundo domingo de mayo. A unos seis km sentido Olvera destaca el Peñón de Zaframagón, macizo dolomítico de 584 metros, situado entre Olvera y Coripe, declarado Reserva natural, conserva una de las colonias de buitre leonado mayores de España.
+
+¡ Y te vas a perder todo esto….!
+
+Visita Coripe, paraje natural de la Sierra Sur de Sevilla.
 
 Etiquetas	
 ===========
